@@ -1,0 +1,16 @@
+Viva Questions for Program 3:
+
+1. What is a Class Component in React?
+Answer: A class component is a stateful React component created using ES6 classes that extends React.Component. It has its own state and lifecycle methods.
+
+2. How do you apply inline styles in React?
+Answer: Inline styles are applied using a JavaScript object where CSS properties are written in camelCase (e.g., <div style={{ backgroundColor: "blue" }}>).
+
+3. What is the useEffect hook used for?
+Answer: It lets you perform side effects in function components, essentially replacing lifecycle methods like componentDidMount, componentDidUpdate, and componentWillUnmount.
+
+4. Explain the difference between state and props.
+Answer: Props are read-only and passed from parent to child, while state is mutable and managed within the component itself.
+
+5. What does the empty dependency array [] in useEffect mean?
+Answer: It means the effect will only run once after the initial render, mimicking the behavior of componentDidMount.
