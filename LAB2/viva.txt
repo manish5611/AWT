@@ -1,0 +1,16 @@
+Viva Questions for Program 2:
+
+1. What is the purpose of regular expressions in JavaScript validation?
+Answer: Regular expressions (regex) are patterns used to match character combinations in strings, heavily used to enforce formats like email and mobile numbers.
+
+2. Why do we use "return false;" in form validation?
+Answer: It prevents the form from submitting and reloading the page when validation fails, allowing the user to correct their input.
+
+3. How does document.getElementById() work?
+Answer: It returns the DOM element that has an ID attribute with the specified value, allowing JavaScript to read or manipulate it.
+
+4. Explain the regex /^[0-9]{10}$/.
+Answer: It ensures the input string contains exactly 10 digits from start (^) to end ($).
+
+5. What is the difference between innerHTML and value?
+Answer: innerHTML gets or sets the HTML content inside an element (like a <div>), whereas value gets or sets the input text inside form elements (like <input> or <textarea>).

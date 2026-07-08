@@ -1,0 +1,16 @@
+Viva Questions for Program 1:
+
+1. What is the use of the <frameset> tag in HTML?
+Answer: The <frameset> tag is used to divide the browser window into multiple frames, where each frame can load a separate HTML document. Note that it is not supported in HTML5.
+
+2. How do you link one frame to display content in another frame?
+Answer: By giving the target frame a 'name' attribute, and then using that name in the 'target' attribute of the <a> tag (e.g., <a href="page.html" target="content">).
+
+3. What attributes are used to control the dimensions of an image?
+Answer: The 'width' and 'height' attributes in the <img> tag.
+
+4. Explain the difference between <ul> and <ol> tags.
+Answer: <ul> stands for Unordered List and is used to create bulleted lists. <ol> stands for Ordered List and is used to create numbered lists.
+
+5. What does the 'cellpadding' attribute do in a table?
+Answer: It specifies the space between the cell content and its borders.
